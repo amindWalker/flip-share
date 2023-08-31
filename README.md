@@ -16,5 +16,3 @@ The solution for effortlessly creating a server and sharing your content on the 
 ## License
 
 Flip-Share is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute this software according to the terms of the license.
-
----
